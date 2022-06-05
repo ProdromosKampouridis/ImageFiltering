@@ -1,0 +1,74 @@
+﻿  FilterGamma.cpp
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\FilterGamma.cpp(8,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\FilterGamma.cpp(9,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\array2d.hpp(22,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\array2d.hpp(18): message : while compiling class template member function 'void math::Array2D<math::Vec3<float>>::setData(const T *const &)'
+          with
+          [
+              T=math::Vec3<float>
+          ]
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\array2d.hpp(36): message : see reference to function template instantiation 'void math::Array2D<math::Vec3<float>>::setData(const T *const &)' being compiled
+          with
+          [
+              T=math::Vec3<float>
+          ]
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\array2d.hpp(10): message : while compiling class template member function 'const unsigned int math::Array2D<math::Vec3<float>>::getWidth(void) const'
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\FilterGamma.cpp(9): message : see reference to function template instantiation 'const unsigned int math::Array2D<math::Vec3<float>>::getWidth(void) const' being compiled
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\image.h(9): message : see reference to class template instantiation 'math::Array2D<math::Vec3<float>>' being compiled
+  FilterLinear.cpp
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\FilterLinear.cpp(18,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\FilterLinear.cpp(19,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\array2d.hpp(22,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\array2d.hpp(18): message : while compiling class template member function 'void math::Array2D<math::Vec3<float>>::setData(const T *const &)'
+          with
+          [
+              T=math::Vec3<float>
+          ]
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\array2d.hpp(36): message : see reference to function template instantiation 'void math::Array2D<math::Vec3<float>>::setData(const T *const &)' being compiled
+          with
+          [
+              T=math::Vec3<float>
+          ]
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\array2d.hpp(10): message : while compiling class template member function 'const unsigned int math::Array2D<math::Vec3<float>>::getWidth(void) const'
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\FilterLinear.cpp(19): message : see reference to function template instantiation 'const unsigned int math::Array2D<math::Vec3<float>>::getWidth(void) const' being compiled
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\image.h(9): message : see reference to class template instantiation 'math::Array2D<math::Vec3<float>>' being compiled
+  image.cpp
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\array2d.hpp(22,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\array2d.hpp(18): message : while compiling class template member function 'void math::Array2D<math::Vec3<float>>::setData(const T *const &)'
+          with
+          [
+              T=math::Vec3<float>
+          ]
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\image.cpp(12): message : see reference to function template instantiation 'void math::Array2D<math::Vec3<float>>::setData(const T *const &)' being compiled
+          with
+          [
+              T=math::Vec3<float>
+          ]
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\image.h(9): message : see reference to class template instantiation 'math::Array2D<math::Vec3<float>>' being compiled
+  main.cpp
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\main.cpp(28,21): warning C4244: 'argument': conversion from 'int' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\main.cpp(29,21): warning C4244: 'argument': conversion from 'int' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\array2d.hpp(22,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\array2d.hpp(18): message : while compiling class template member function 'void math::Array2D<math::Vec3<float>>::setData(const T *const &)'
+          with
+          [
+              T=math::Vec3<float>
+          ]
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\array2d.hpp(36): message : see reference to function template instantiation 'void math::Array2D<math::Vec3<float>>::setData(const T *const &)' being compiled
+          with
+          [
+              T=math::Vec3<float>
+          ]
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\array2d.hpp(10): message : while compiling class template member function 'const unsigned int math::Array2D<math::Vec3<float>>::getWidth(void) const'
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\main.cpp(76): message : see reference to function template instantiation 'const unsigned int math::Array2D<math::Vec3<float>>::getWidth(void) const' being compiled
+C:\Users\Makis\Desktop\C++\3140167-3140065\ProjectCPP\image.h(9): message : see reference to class template instantiation 'math::Array2D<math::Vec3<float>>' being compiled
+  Generating Code...
+  ProjectCPP.vcxproj -> C:\Users\Makis\Desktop\C++\3140167-3140065\x64\Debug\filter_d.exe
